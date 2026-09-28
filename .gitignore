@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+page_check*.png
+pc_*.png
+.ipynb_checkpoints/

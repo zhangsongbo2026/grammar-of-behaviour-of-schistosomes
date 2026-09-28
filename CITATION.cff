@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying manuscript."
+title: schistosome-grammar-v4
+authors:
+  - given-names: Juan
+    family-names: Duan
+  - given-names: Zhiqiang
+    family-names: Qin
+  - given-names: Songbo
+    family-names: Zhang
+    email: songbozhang@yvtc.edu.cn
+version: v4.0
+date-released: "2026-09-27"
+license: MIT
+abstract: "Code, data and results for 'Transfer cost, not transfer success: a measured migration of the structural grammar of behaviour from viruses to schistosomes'."
+keywords:
+  - schistosomiasis
+  - predictive parasitology
+  - praziquantel resistance
+  - climate projection
+  - machine learning
